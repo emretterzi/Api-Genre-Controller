@@ -105,3 +105,12 @@ curl -X POST http://127.0.0.1:5000/predict -H "Content-Type: application/json" -
 To train your own model, you need to prepare a dataset of song lyrics with their corresponding genres. You can use various machine learning libraries such as scikit-learn to train your model and save it using `joblib`. Ensure the saved model is named `trained_model.joblib` and placed in the project directory.
 
 
+
+## Screenshots
+
+<img width="411" alt="image" src="https://github.com/emretterzi/Api-Genre-Controller/assets/56559417/bf7d2adf-760e-41e6-860c-1ffa87bc19f8">
+
+
+
+
+
