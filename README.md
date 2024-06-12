@@ -108,7 +108,18 @@ To train your own model, you need to prepare a dataset of song lyrics with their
 
 ## Screenshots
 
-<img width="411" alt="image" src="https://github.com/emretterzi/Api-Genre-Controller/assets/56559417/bf7d2adf-760e-41e6-860c-1ffa87bc19f8">
+Eminem Rap-God
+
+<img width="800" alt="image" src="https://github.com/emretterzi/Api-Genre-Controller/assets/56559417/bf7d2adf-760e-41e6-860c-1ffa87bc19f8">
+
+
+
+
+
+ Ice-T -6 'N the Mornin!
+
+<img width="800" alt="image" src="https://github.com/emretterzi/Api-Genre-Controller/assets/56559417/da0fa6ef-43a7-4cd4-af5a-8444030db0d9">
+
 
 
 
